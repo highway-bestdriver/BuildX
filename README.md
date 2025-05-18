@@ -1,6 +1,6 @@
 <div align="center">
   
-# MuseLab
+# BuildX
 캡스톤디자인과창업프로젝트 스타트 14팀 <br/><br/>
 
 </div>
